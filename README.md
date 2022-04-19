@@ -2,4 +2,4 @@
 
 ## Basic 
 
-1- [Functions](function.md)
+1- [Functions](function/readme.md)
